@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "venusdefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
