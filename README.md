@@ -1,0 +1,14 @@
+# missi-user 11 RKQ1.200928.002 V12.0.9.0.RKBMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: venus
+- flavor: missi-user
+- release: 11
+- id: RKQ1.200928.002
+- incremental: V12.0.9.0.RKBMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/venus_global/venus:11/RKQ1.200928.002/V12.0.9.0.RKBMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-11-RKQ1.200928.002-V12.0.9.0.RKBMIXM-release-keys
+- repo: xiaomi_venus_dump
